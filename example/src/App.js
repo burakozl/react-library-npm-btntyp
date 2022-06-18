@@ -1,10 +1,14 @@
 import React from 'react'
-
-import { ExampleComponent } from 'btntyp'
+import { Button } from 'btntyp'
 import 'btntyp/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return (
+    <>
+      <Button text="Click" type="dashed"/>
+    </>
+
+  )
 }
 
 export default App
