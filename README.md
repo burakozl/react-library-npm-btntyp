@@ -1,3 +1,5 @@
+https://www.patika.dev/tr react library ödev4 kapsamında yapıldı ödev [linki](https://app.patika.dev/courses/react/odev4) 
+
 # btntyp
 
 > Made with create-react-library
